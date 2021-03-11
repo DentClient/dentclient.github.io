@@ -1,3 +1,9 @@
+---
+hero_image: hero.png
+hero_link: dentclient.github.io/#Download
+hero_text: Dent Client
+---
+
 # Dent Client
 
 A Hacked Client/Utility Mod in the latest version of Minecraft
